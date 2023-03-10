@@ -91,7 +91,7 @@ On SocketIO: pip install Flask Flask-SocketIO Flask-Cors<br />
     Each member worked on a component on the frontend and on the backend,
     and a component on the backend. 
 
-Marinescu Alexandru -> Find matches component and routes for Helper CRUD
-Dragomir Andrei -> Solve Test backend and frontend
+Sindrilaru Catalina -> Find matches component and routes for Helper CRUD
+Sindrilaru Catalina -> Solve Test backend and frontend
 Dumitru Stefania -> About page + backend Student
 Dumitrescu Bogdan -> Chat (frontend & backend), JWT implementation(Register & Login), frontend-backend linking, additional features
